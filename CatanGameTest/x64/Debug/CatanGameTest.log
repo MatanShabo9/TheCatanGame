@@ -1,0 +1,11 @@
+﻿  Board.cpp
+  Corner.cpp
+  DevelopmentCard.cpp
+  DevelopmentCardDeck.cpp
+  Edge.cpp
+  HexTile.cpp
+  Main.cpp
+  Player.cpp
+  ResourceType.cpp
+  Generating Code...
+  CatanGameTest.vcxproj -> C:\Users\matan\רזרזנו2\שולחן העבודה\CatanGameTest\x64\Debug\CatanGameTest.exe
